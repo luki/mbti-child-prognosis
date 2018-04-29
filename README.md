@@ -1,5 +1,8 @@
 # MBTI Child Prognosis
 
+## Current State
+Collecting data
+
 ## Introduction
 The Myers-Briggs Type Indicator, as acronym 'MBTI', is a test that 
 categorizes one in one of 16 possible personality types.
@@ -17,3 +20,6 @@ After a while, I came up with this idea.
 ### Technical
 I saw value in working on this, since I haven't worked on practical examples
 for machine learning.
+
+## Problems/Questions
+* Scientifically speaking, does it make sense to estimate a child's personality based on the parents' results?
